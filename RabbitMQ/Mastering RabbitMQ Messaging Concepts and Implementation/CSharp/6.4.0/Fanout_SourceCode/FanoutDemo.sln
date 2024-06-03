@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FanoutPublisher", "FanoutPublisher\FanoutPublisher.csproj", "{48BCB6D2-3744-4CA8-A860-798D97ADFDB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FanoutConsumer", "FanoutConsumer\FanoutConsumer.csproj", "{8CD49B2F-86AC-4CFD-A409-6DDE2293B051}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48BCB6D2-3744-4CA8-A860-798D97ADFDB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48BCB6D2-3744-4CA8-A860-798D97ADFDB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48BCB6D2-3744-4CA8-A860-798D97ADFDB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48BCB6D2-3744-4CA8-A860-798D97ADFDB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CD49B2F-86AC-4CFD-A409-6DDE2293B051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CD49B2F-86AC-4CFD-A409-6DDE2293B051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CD49B2F-86AC-4CFD-A409-6DDE2293B051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CD49B2F-86AC-4CFD-A409-6DDE2293B051}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8613213-88BD-4319-A30C-BE2BFBA6F504}
+	EndGlobalSection
+EndGlobal
