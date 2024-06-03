@@ -2,6 +2,10 @@
 ## Overview
 This repository aggregates multiple projects focusing on RabbitMQ and Kafka within the context of .NET Core microservices. Each project is structured within its respective directory, containing the necessary source code. This document provides an overarching view of each project, highlighting their requirements, objectives, and key learning outcomes. The goal is to offer a comprehensive guide for professionals and students in software engineering to master the integration of RabbitMQ and Kafka in microservice architectures.
 
+<table>
+<tr>
+<td>
+
 ## Project 1: .NET Core Microservices with RabbitMQ: A Beginner's Guide
 ### Requirements
 - Visual Studio
@@ -60,8 +64,12 @@ This project is designed for both beginners and experienced users of RabbitMQ. I
 - Conducting performance tests and analyzing memory usage
 - Building and maintaining highly available RabbitMQ clusters
 
-## Conclusion
+## Projects Conclusion
 This aggregated repository serves as a comprehensive resource for mastering RabbitMQ and Kafka in .NET Core microservices. Each project is meticulously designed to provide a step-by-step learning experience, ensuring that users can progressively build their knowledge and skills. Whether you are a student, software engineer, or cloud architect, this repository offers valuable insights and practical tools to excel in the field of microservice architectures.
+
+</td>
+</tr>
+</table>
 
 ## Contributing
 
