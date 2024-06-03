@@ -62,3 +62,34 @@ This project is designed for both beginners and experienced users of RabbitMQ. I
 
 ## Conclusion
 This aggregated repository serves as a comprehensive resource for mastering RabbitMQ and Kafka in .NET Core microservices. Each project is meticulously designed to provide a step-by-step learning experience, ensuring that users can progressively build their knowledge and skills. Whether you are a student, software engineer, or cloud architect, this repository offers valuable insights and practical tools to excel in the field of microservice architectures.
+
+## Contributing
+
+First off, thanks for taking the time to contribute! Contributions are what makes the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are **greatly appreciated**.
+
+Please try to create bug reports that are:
+
+- _Reproducible._ Include steps to reproduce the problem.
+- _Specific._ Include as much detail as possible: which version, what environment, etc.
+- _Unique._ Do not duplicate existing opened issues.
+- _Scoped to a Single Bug._ One bug per report.
+
+Please adhere to this project's [code of conduct](docs/CODE_OF_CONDUCT.md).
+
+You can use [markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli) to check for common markdown style inconsistency.
+
+## Code of Conduct
+
+[Contributor Code of Conduct](code_of_conduct.md). By participating in this project you agree to abide by its terms.
+
+## Support
+
+Reach out to the maintainer at:
+
+- The email which is located [in GitHub profile](https://github.com/SalehAhmadi)
+
+## License
+
+This project is licensed under the **MIT license**. Feel free to edit and distribute this template as you like.
+
+See [LICENSE](LICENSE) for more information.
